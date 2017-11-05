@@ -21,7 +21,7 @@
 		cd "C:\Program Files (x86)\nodejs"
 		```
 
-		в зависимости от того где у вас установленна nodejs, и выполнить
+		в зависимости от того где у вас установлена nodejs, и выполнить
 
 		```bash
 		npm install npm@latest
