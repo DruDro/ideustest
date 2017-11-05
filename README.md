@@ -59,11 +59,11 @@
 
 ## Основные таски
 
-* `gulp develop`      - запускает вотчеры и сервер и отплавляет в папку `build` 
+* `gulp develop`      - запускает вотчеры и сервер и отправляет в папку `build` 
 * `gulp sprite:retina`     - собирает retina sprite
 * `gulp sprite:svg`        - собирает svg sprite
 * `gulp sprite:default`    - собирает default sprite
-* `gulp production`   - собирает проект и отплавляет в папку `build` 
+* `gulp production`   - собирает проект и отправляет в папку `build` 
 
 ## Генерация модулей
 
